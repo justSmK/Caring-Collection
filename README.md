@@ -10,3 +10,7 @@
 - [ ] Нельзя использовать UICollectionViewCompositionalLayout.
 
 Похожее поведение коллекции вы можете увидеть в приложении App Store.
+
+
+https://github.com/justSmK/Caring-Collection/assets/28645140/488d19f6-cdcd-40bb-bbd1-65c46b453c0c
+
